@@ -1,0 +1,42 @@
+#idc
+{
+    background-color: lightgreen;
+    text-align: center;
+    font-size: 25px;
+    box-shadow: 5px 5px 20px darkgreen;
+}
+
+.copy_right_footer
+{
+    background-color: rgb(10, 151, 245);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    box-shadow: 1px -20px 30px lightskyblue;
+    font-size: 30px;
+    color: red;
+
+}
+
+
+body
+{
+    background-image: url("b.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.note
+{
+    font-size: 25px;
+    font-style: bold;
+    color: black;
+}
+
+canvas{
+    border-style: dotted;
+    border-color: black;
+    box-shadow: 5px 5px 30px red;
+    margin-left: 200px;
+}
